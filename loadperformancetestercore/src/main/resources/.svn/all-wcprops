@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/54/trunk/loadperformancetestercore/src/main/resources
+END
+loadperformancetester-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/54/trunk/loadperformancetestercore/src/main/resources/loadperformancetester-beans.xml
+END
+loadperformancetester.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/54/trunk/loadperformancetestercore/src/main/resources/loadperformancetester.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/54/trunk/loadperformancetestercore/src/main/resources/log4j.properties
+END
